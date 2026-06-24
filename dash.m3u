@@ -19,3 +19,39 @@ https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="澳大利亚" tvg-logo="" group-title="hard tv",test austria
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/mel/ch9/hls/r1/index.m3u8
+
+#EXTINF:-1 ,Mezzo (VPN NL)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"691c85df5fe65f8f72e608435ab6719a":"1b15308773934df2bae7edca332d9857"}
+https://bpm.tv.delta.nl/dash-cenc/combined/62/smarttv.mpd?bk-network=coax-mobile
+
+#EXTINF:-1 ,NBA-TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1acd2d7afd8cb34099cb832862e3c08d:b85491a27c2852323ac704a07cf7b779
+https://lpnba.akamaized.net/live-pz/p/hls-wvpr/NBATVI/index.m3u8?addUserInfo=1&start=LIVE&end=END&PostalCode=0&ISO3166=&sessionId=dbb6c120-b3e1-49db-9095-11cb637264cf
+
+#EXTINF:-1,TVBS 55 新聞台 (VPN TW)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"95e68a0ddebc5d47a160ceedd48b81ea":"74e48f72d124e58df30174467c8fa63d","c38a6b8dcb7b5d58bed2e4368d91aadb":"228c2bf9dcb24c20453513f07b05e534","f5e20082a937559f89ebaab25bd28145":"be418de2f157d67947f9ac28b379f895","d29b4f3c5bca5ac6aecf594b74b8a391":"df2bc2616e586c0251731e40b7f615fd"}
+https://livetv.catchplay.com/bcde860c-1426-11f0-aef7-9a2246e728b9/ea762ea7-4899-4eea-8c94-1c19efd43536/984fcf82-9438-4a45-8a2a-b0cf3c749d1d/dash.mpd
+
+#EXTINF:-1 ,Ch 5 (HD)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=68789069812d49479a333c699931ac72:80b9ca05761a15a2243f8ff3897de476
+https://fta.singteltvgo.com/out/v1/447a44fdc4d345e18cb4d3c5f09f78bd/manifest.mpd
+
+#EXTINF:-1 ,Ch 5 (HD) FairPlay
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55fffff5c4c6440f97191cff81ea8cee:7a45dffa55203597821c0e28d758a5c6
+https://fta.singteltvgo.com/out/v1/56d9134218dc4d4fb278731e7eabd20f/master.m3u8?aws.manifestfilter=video_bitrate:1000000-10000000
+
