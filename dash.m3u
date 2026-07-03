@@ -41,6 +41,20 @@ https://lpnba.akamaized.net/live-pz/p/hls-wvpr/NBATVI/index.m3u8?addUserInfo=1&s
 #KODIPROP:inputstream.adaptive.license_key=ce761fb1be2c3c2dbf86d86df02c28ad:8cbdeea72610c1bfd4dece57bab1d0a3
 https://f1prodlive.akamaized.net/v2/hajvk2fd2vxr/out/v1/Main/WIF-F2-R1/HDR-UHD-CMAF-FP/index.m3u8?hdnea=st=1783068893~exp=1783155293~acl=/v2/hajvk2fd2vxr/out/v1/Main/WIF-F2-R1/HDR-UHD-CMAF-FP/*~id=232481449_01KWKK08HF8VMEH9JJ5N8N0F7Y_PP~data=start=1783068642_end=1783111842~hmac=47c9abb15764db2980bfd837f497cd6f0f595a4734317265b4fc4ba0d6865bb5&end=1783111842&start=1783068642
 
+#EXTINF:-1 ,[4K] Formula 1 - Britain: Practice 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={792982b3bca936648703fb0a6e160265:4693b3d3b5ec27ac3d772982c09a6885, a5b6e31a4d083d14a09f4b756f01c32e:aead7bb844d1e4806ccb3cc1dd3d38b0,02f0f35975033b4293ddb8c0ded820c8:612c5e09cf936bf2d59f56d5673451a6,e1e4293a444b3768932d121c17d9ae9a:26e4294b519e18ce7cedea040dfce841,b6c5e7cd1eb2335daa7e1d3465a9293b:413ef9974cab024b27f13bb7bf5c3aff}
+https://linear.tv.apple.com/v1/hls/playlist.m3u8?serviceId=tvs.vds.241105&l=en-US&referenceId=umc.cmr.f1live.sp.10wao3c1x9j392c2r2waczk7v
+
+#EXTINF:-1,apple06
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={792982b3bca936648703fb0a6e160265:4693b3d3b5ec27ac3d772982c09a6885,a5b6e31a4d083d14a09f4b756f01c32e:aead7bb844d1e4806ccb3cc1dd3d38b0,02f0f35975033b4293ddb8c0ded820c8:612c5e09cf936bf2d59f56d5673451a6,e1e4293a444b3768932d121c17d9ae9a:26e4294b519e18ce7cedea040dfce841,b6c5e7cd1eb2335daa7e1d3465a9293b:413ef9974cab024b27f13bb7bf5c3aff}
+https://linear.tv.apple.com/v1/hls/playlist.m3u8?serviceId=tvs.vds.241105&l=en-US&referenceId=umc.cmr.f1live.sp.10wao3c1x9j392c2r2waczk7v
+
 #EXTINF:-1,TVBS 55 新聞台 (VPN TW)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
