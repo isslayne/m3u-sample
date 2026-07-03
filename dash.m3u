@@ -48,6 +48,13 @@ https://f1prodlive.akamaized.net/v2/hajvk2fd2vxr/out/v1/Main/WIF-F2-R1/HDR-UHD-C
 #KODIPROP:inputstream.adaptive.license_key={792982b3bca936648703fb0a6e160265:4693b3d3b5ec27ac3d772982c09a6885, a5b6e31a4d083d14a09f4b756f01c32e:aead7bb844d1e4806ccb3cc1dd3d38b0,02f0f35975033b4293ddb8c0ded820c8:612c5e09cf936bf2d59f56d5673451a6,e1e4293a444b3768932d121c17d9ae9a:26e4294b519e18ce7cedea040dfce841,b6c5e7cd1eb2335daa7e1d3465a9293b:413ef9974cab024b27f13bb7bf5c3aff}
 https://linear.tv.apple.com/v1/hls/playlist.m3u8?serviceId=tvs.vds.241105&l=en-US&referenceId=umc.cmr.f1live.sp.10wao3c1x9j392c2r2waczk7v
 
+#EXTINF:-1,apple f1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={9d9202c9bb9b3fafb3535c9688e9f2f0:2509bb9f37754c962906dc1272cebe87,6f551aa0d21434a4a06b48fb05206c90:41f623065b6f8a326707c9c597540258}
+https://linear.tv.apple.com/v1/hls/playlist.m3u8?serviceId=tvs.vds.241105&l=en-US&referenceId=umc.cmr.f1live.sp.56d7jbwp9l2m15p39ps457y56
+
 #EXTINF:-1,apple06
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
