@@ -34,6 +34,13 @@ https://bpm.tv.delta.nl/dash-cenc/combined/62/smarttv.mpd?bk-network=coax-mobile
 #KODIPROP:inputstream.adaptive.license_key=1acd2d7afd8cb34099cb832862e3c08d:b85491a27c2852323ac704a07cf7b779
 https://lpnba.akamaized.net/live-pz/p/hls-wvpr/NBATVI/index.m3u8?addUserInfo=1&start=LIVE&end=END&PostalCode=0&ISO3166=&sessionId=dbb6c120-b3e1-49db-9095-11cb637264cf
 
+#EXTINF:-1 ,2609 British GP - F2 Practice
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce761fb1be2c3c2dbf86d86df02c28ad:8cbdeea72610c1bfd4dece57bab1d0a3
+https://f1prodlive.akamaized.net/v2/hajvk2fd2vxr/out/v1/Main/WIF-F2-R1/HDR-UHD-CMAF-FP/index.m3u8?hdnea=st=1783068893~exp=1783155293~acl=/v2/hajvk2fd2vxr/out/v1/Main/WIF-F2-R1/HDR-UHD-CMAF-FP/*~id=232481449_01KWKK08HF8VMEH9JJ5N8N0F7Y_PP~data=start=1783068642_end=1783111842~hmac=47c9abb15764db2980bfd837f497cd6f0f595a4734317265b4fc4ba0d6865bb5&end=1783111842&start=1783068642
+
 #EXTINF:-1,TVBS 55 新聞台 (VPN TW)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
