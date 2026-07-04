@@ -53,8 +53,7 @@ https://linear.tv.apple.com/v1/hls/playlist.m3u8?serviceId=tvs.vds.241105&l=en-U
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={2c8f62ced7913f7f906ce7720a54822a:63bcee3e6cb2c66945ceb31de9bc16cd,05a44ed9781d34028276d5917dc07506:f595b6ef23f4b3c9534f3bd65d6a4af9,4b683ff70aa835648efc14a027344ca4:9c92da2682fd57b5679ed4cab252ac9a,422651d5525d3e1fa172e218ebee8bec:9b21d691c6cf2844eb0c263af0ae8953,dd7d8c770f833b88b55f62176bf18966:2a5ab8a221396cf5bc37ee0f21362397}
-##https://linear.tv.apple.com/v1/hls/playlist.m3u8?serviceId=tvs.vds.241105&referenceId=umc.cmr.f1live.sp.6irpyx18wbq4032mbc62k46dp
-https://linear-ak-p-har-prod-b.tv.apple.com/Content/HLS_CBC/Live/channel(f1-set2-tv-f1tv)/14_1min.m3u8
+https://linear.tv.apple.com/v1/hls/playlist.m3u8?serviceId=tvs.vds.241105&referenceId=umc.cmr.f1live.sp.6irpyx18wbq4032mbc62k46dp
 
 #EXTINF:-1,apple06
 #KODIPROP:inputstream=inputstream.adaptive
