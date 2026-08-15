@@ -7,6 +7,9 @@ https://tsb-mega.i9.ee/stream/nhkbsp4k_hevc_mmt
 https://tsb-mega.i9.ee/stream/nhkbs8k_hevc_mmt
 
 #EXTINF:-1 tvg-id="1" tvg-name="NHK BS04K" tvg-logo="" group-title="hard tv",NHK BS04K
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mmt
+#KODIPROP:inputstream.adaptive.license_key=7473756d7567692d7265736372616d626c652d7630
 https://tsb-mega.i9.ee/stream/nhkbsp4k_hevc
 
 #EXTINF:-1tvg-id="305.astro" tvg-name="千禧經典台" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_Classic_2022.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",TVB千禧经典台
